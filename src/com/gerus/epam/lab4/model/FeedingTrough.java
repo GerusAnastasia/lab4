@@ -1,4 +1,4 @@
-package feed;
+package com.gerus.epam.lab4.model;
 
 import java.util.concurrent.Semaphore;
 

@@ -1,4 +1,4 @@
-package feed;
+package com.gerus.epam.lab4.model;
 
 public class Animal implements Runnable{
     private int animalNNumber;

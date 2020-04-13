@@ -1,4 +1,4 @@
-package sample;
+package com.gerus.epam.lab4;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
